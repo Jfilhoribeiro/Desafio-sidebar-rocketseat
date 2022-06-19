@@ -2,6 +2,8 @@
 
 ## ![](https://user-images.githubusercontent.com/87453124/174497798-1e5b8121-9fd9-4dbb-aaf0-6e3198139ab9.png)
 
+- Além do que foi proposto, fiz também a implementação para telas mobile
+
 
 ## Neste desafio foi utilizado as seguintes tecnologias:
 - HTML5
